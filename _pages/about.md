@@ -26,6 +26,6 @@ I'm currently an Assistant Professor at [Beijing Forestry University (BJFU)](htt
 **Research interest:** Wireless communications, security and privacy, optimization, statistical signal processing, blockchain, and distributed learning. See this [page](https://homepage.fanxin/research/) for more details. *Interested in collaboration? Contact me.*
 
 
-**Announcement:** I welcome any form of research collaboration. #I'm experimenting a new form of research collaboration. # You can click [here](https://forms.office.com/r/32Fs6uAjT6) if you are interested!
+**Announcement:** I welcome any form of research collaboration.
 
 
