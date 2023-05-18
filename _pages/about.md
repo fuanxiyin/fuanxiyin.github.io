@@ -23,7 +23,7 @@ fanxin [at] bjtu.edu.cn<br>
 I'm currently an Assistant Professor at [Beijing Forestry University (BJFU)](http://www.bjfu.edu.cn/). Before joining BJFU, I obtained my BS, MS and Ph.D. from School of Electronic and Information Engineering, Beijing Jiaotong University. In 2020/01--2022/08, I was a visitoring Ph.D. student of Prof. [Zhi(Gerry) Tian](https://people-ece.vse.gmu.edu/~ztian1/)'s group with the Electrical and Computer Engineering Department, George Mason University (GMU), Fairfax, VA, USA. My current research interests lie in the areas of signal processing, communications, and machine learning. I have served as a reviewer for a number of IEEE papers, including J-SAC, IoT-J, WCL, WCM, TWC, TSP, TCoM, TVT, INFOCOM, Globecom, etc.
 
 
-**Research interest:** Wireless communications, security and privacy, optimization, statistical signal processing, blockchain, and distributed learning. See this [page](https://homepage.fanxin/research/) for more details. 
+**Research interest:** Wireless communications, security and privacy, optimization, statistical signal processing, blockchain, and distributed learning. See this [page](https://fuanxiyin.github.io/research/) for more details. 
 
 
 **Announcement:** I welcome any form of research collaboration. *Interested in collaboration? Contact me.*
