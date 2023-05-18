@@ -5,6 +5,40 @@ title: Research
 nav: true
 ---
 
+####Research Interests
+- Physical Layer security:
+  - Cooperative Jamming, Beamforming, Electronic countermeasures.
+- Trustworthy AI & ML: 
+  - Efficient, Robust & Privacy-preserving Distributed Learning, Deep Neural Networks
+- Sparse Signal Processing: 
+  - Compressed Sensing, Compressive Statistics Sensing, Structured Optimization
+- Array Processing: 
+  - DoA Estimation, High-dimensional Signal and Statistics Analysis
+- NextG Wireless Techniques: 
+  - Millimeter-wave Massive MIMO, Channel Estimation, Non-coherent Detection
+- Cognitive Radios: 
+  - Wideband Spectrum Sensing, Cooperative Spectrum Sensing, RF Interference Detection
+- Cyber Physical Systems:
+  - Internet of Things, Smart Cities, Mobile Edge Computing, UAV, 5G/6G Networks
+- Blockchain:
+  - Structure Design, competitive mechanism, dynamic access
+
+
+####Grants
+- Research on joint secure transmission scheme in NOMA system, the Fundamental Research Funds 
+for the Central Universities, PI (1/4), 2019.04—2021.03
+- Research on multi-dimensional secure green communication system for next generation wireless 
+network, National Natural Science Foundation of China, Co-PI (3/10), 2019.01—2023.01
+- Research and design of cooperative cognitive dynamic secure transmission system for intelligent 
+Internet of Things, Beijing Natural Science Foundation, Co-PI (3/10), 2020.01—2023.01
+- Research on obstacle detection algorithm and motor synchronization of elevating platform door 
+system, Natural Science Foundation of China Academy of Railway Sciences, Co-PI (1/4), 2019.08—2020.08
+
+
+
+
+
+<!--
 <center>
 <img src="../assets/img/research.png" style="width: 85%"/>
 </center>
@@ -67,3 +101,4 @@ Our research consists of the following topics with selected publications: [[View
                     [Tutorial](https://github.com/jindongwang/transferlearning-tutorial)
 3. I'm also leading other popular research projects: [Machine learning](https://github.com/jindongwang/MachineLearning), [Activity recognition](https://github.com/jindongwang/activityrecognition)
 4.  I started a software studio *Pivot Studio* and made many applications in 2010-2014: <img src="/assets/img/logo.png" width="100" /> [Our applications](https://v.youku.com/v_show/id_XNjI2Njg2MzAw.html?spm=a2hbt.13141534.1_2.d_1&scm=20140719.manual.114461.video_XNjI2Njg2MzAw)
+-->
