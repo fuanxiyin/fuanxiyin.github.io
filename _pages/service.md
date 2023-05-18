@@ -6,7 +6,7 @@ nav: true
 ---
 
 #### Academic service
-
+<!--
 - Journal editorship:
   - Editorial board of young scientist, Journal of Computer Science and Technology (JCST) 
 - Conference organizer:
@@ -15,21 +15,29 @@ nav: true
 - Conference senior member/area chair:
   - IJCAI 2023 senior PC
   - AAAI 2023 senior PC
-- Conference PC member: 
+-->
+- Conference TPC member: 
+<!-- 
   - ML area: ICML (2023, 2022, 2021, 2020); NeurIPS (2023, 2022, 2021, 2020); ICLR (2023, 2022, 2021)
   - AI area: AAAI (2022, 2021, 2020); IJCAI (2022)
   - CV area: CVPR (2023, 2022, 2021); ICCV (2023, 2021); ECCV (2022)
   - DM area: KDD (2021); WWW (2023, 2022, 2021); SDM (2023, 2022); WSDM (2023)
   - HCI area: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
-- Journal reviewer: 
-  - TPAMI, IJCV, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, TMC, ACM CSUR, ACM TIST, IEEE TBD, Knowledge-Based Systems, Neurocomputing, Pervasive and Mobile Computing.
+-->
+  -IEEE Military Communications Conference (IEEE MILCOM)
+- Reviewer: 
+  - IEEE Communications; IEEE Wireless Communications (WCM); IEEE Transactions on Wireless Communications (TWC); IEEE Internet of Things Journal (IoT-J); IEEE Transactions on Vehicular  Technology (TVT); IEEE Transactions on Industrial Informatics (TII); IEEE Journal on Selected Areas in Communications (J-SAC); IEEE Transactions on Signal Processing (TSP); IEEE     Transactions on Communications (TCoM); IEEE Wireless Communications Letters (WCL); IEEE Transactions on Mobile Computing (TMC); IEEE International Conference on Computer          Communications (INFOCOM); IEEE Global Communications Conference (Globecom); IEEE Military Communications Conference (MILCOM); International Conference on Wireless Algorithms, Systems, and Applications (WASA);etc.
 - Membership: 
-  - Member of CCF technical committee pervasive computing (TCPC)
-  - Member of human computer interaction (TCHCI)
-  - CCF member
+  -  IEEE Member 
+  -  IEEE Communication Society Member
 
 #### Awards
-
+- Outstanding Academic Scholarship for Excellent Graduate Students. BJTU 2016-2022.
+- Scholarship of Traffic Control Technology. BJTU 2021.
+- Excellent Graduate Awards. BJTU 2019.
+- Scholarship of China Scholarship Council. Ministry of Education 2020-2022
+- Excellent Master's Thesis Award. BJTU 2018
+<!--
 - Outstanding reviewer. NeurIPS 2022.
 - Innovation award. IJCAI federated learning workshop 2022.
 - Distinguished doctoral thesis award (中国科学院优秀博士学位论文奖) 2020.
@@ -49,3 +57,4 @@ nav: true
 - Excellent Bachelor's Graduation Thesis, NCUT 2014.
 - Beijing Merit Student, Beijing City 2013.
 - National Scholarship (3x), Ministry of Education 2012, 2013, 2014.
+-->
