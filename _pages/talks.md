@@ -5,6 +5,31 @@ permalink: /talks/
 nav: true
 ---
 
+#### Selected Talk
+- Talks at GMU: 
+  - **Deep Leakage from Gradients**.Oct 2020. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/Deep%20Leakage%20from%20Gradients--Xin%20Fan%2020201007.pdf)
+  - **Poisoning Attacks in Federated Learning**. Nov 2020. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/Poisoning%20Attacks%20in%20Federated%20Learning--Xin%20Fan%2020201125.pdf)
+  - **Byzantine-Robust Distributed Learning Towards Optimal Statistical Rates**. Mar 2021. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/Byzantine-Robust%20Distributed%20Learning%20Towards%20Optimal%20Statistical%20Rates--Xin%20Fan%2020210330.pdf)
+  - **Federated learning on Non-IID data**. Sep 2021. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/Federated%20learning%20on%20Non-IID%20data--Xin%20Fan%2020210922.pdf)
+- A Talk at BUAA
+  - **Thinking After Writing**. Nov 2017. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/Poisoning%20Attacks%20in%20Federated%20Learning--Xin%20Fan%2020201125.pdf)
+
+- Oral Defenses of My Degrees
+  - **Oral Defense of M.E. Thesis**. June 2018. [Thesis](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/MEthesis.pdf) [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/defenseforMEdegree.pdf)
+  - **Oral Defense of Ph.D. Thesis**. Dec 2022. [Thesis](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/PHDthesis.pdf) [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/defense4PhD.pdf)
+
+- Conferences
+  - **Joint Optimization for Federated Learning Over the Air**. IEEE ICC 2022. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/ICC2022-joint.pdf)
+  - **Best Effort Voting Power Control for Byzantine-resilient Federated Learning Over the Air**. IEEE ICC 2022. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/ICC2022-joint.pdf)
+  - **Communication-efficient federated learning through 1-bit compressive sensing and analog aggregation**. IEEE ICC 2021. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/ICC2021onebit.pdf)
+  - **Hybrid uplink-downlink noma for secure coordinated multi-point networks**. IEEE ICC 2021. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/ICC2021NOMA.pdf)
+  - **Security analysis of cooperative jamming in internet of things with multiple eavesdroppers**. IEEE Globecom 2019. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/Globecom2019.pdf)
+  - **Space power synthesis-based cooperative jamming for unknown channel state information**. IEEE WASA 2017. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/WASA-paper28.pdf)
+
+
+
+
+<!--
 #### Tutorials
 
 - Tutorial at WSDM 2023: **On the robustness of ChatGPT and NLP Foundation models: an adversarial and OOD perspective**, Feb., 2023. [[PDF](https://dgresearch.github.io/DG_tutorial_wsdm23_chatgpt.pdf)] [[More](https://dgresearch.github.io/)]
@@ -30,3 +55,5 @@ nav: true
 - Invited course: **On machine learning**, at AI Salon at Shanghai Jiao Tong University, Shanghai, China. Sep. 16, 2017. [[PDF](http://jd92.wang/assets/files/l10_mlsjtu.pdf)] [[Photo](http://jd92.wang/assets/image/20170916.jpg)]
 - Invited course: **Feature engineering in machine learning**, at Zhihu Live, online. Mar. 19, 2017. [[PDF]](http://jd92.wang/assets/files/l07_zhihu_fe.pdf) [[Visit Live](https://www.zhihu.com/lives/819543866939174912)] <img src="/assets/img/zhihu_live.png" width="60" height="18" />
 - Invited course: **Machine learning starter**, at Zhihu Live, online. Dec. 22. [[PDF](http://jd92.wang/assets/files/l06_zhihu_ml.pdf)] [[Visit Live](https://www.zhihu.com/lives/792423196996546560?utm_campaign=zhihulive&utm_source=zhihucolumn&utm_medium=Livecolumn)] <img src="/assets/img/zhihu_live.png" width="60" height="18" />
+
+-->
