@@ -6,28 +6,8 @@ nav: true
 ---
 
 #### Academic service
-<!--
-- Journal editorship:
-  - Editorial board of young scientist, Journal of Computer Science and Technology (JCST) 
-- Conference organizer:
-  - IJCAI 2019 Publicity co-chair
-  - ICDM 2019 transfer learning session chair
-- Conference senior member/area chair:
-  - IJCAI 2023 senior PC
-  - AAAI 2023 senior PC
--->
 - Conference TPC member: 
   - IEEE Military Communications Conference (IEEE MILCOM)
-
-<!-- 
-  - ML area: ICML (2023, 2022, 2021, 2020); NeurIPS (2023, 2022, 2021, 2020); ICLR (2023, 2022, 2021)
-  - AI area: AAAI (2022, 2021, 2020); IJCAI (2022)
-  - CV area: CVPR (2023, 2022, 2021); ICCV (2023, 2021); ECCV (2022)
-  - DM area: KDD (2021); WWW (2023, 2022, 2021); SDM (2023, 2022); WSDM (2023)
-  - HCI area: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
--->
-
-  
 - Reviewer: 
   - IEEE Communications; IEEE Wireless Communications (WCM); IEEE Transactions on Wireless Communications (TWC); IEEE Internet of Things Journal (IoT-J); IEEE Transactions on Vehicular  Technology (TVT); IEEE Transactions on Industrial Informatics (TII); IEEE Journal on Selected Areas in Communications (J-SAC); IEEE Transactions on Signal Processing (TSP); IEEE     Transactions on Communications (TCoM); IEEE Wireless Communications Letters (WCL); IEEE Transactions on Mobile Computing (TMC); IEEE International Conference on Computer          Communications (INFOCOM); IEEE Global Communications Conference (Globecom); IEEE Military Communications Conference (MILCOM); International Conference on Wireless Algorithms, Systems, and Applications (WASA);etc.
 - Membership: 
