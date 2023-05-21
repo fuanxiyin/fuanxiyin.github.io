@@ -17,7 +17,7 @@ nav: true
   - AAAI 2023 senior PC
 -->
 - Conference TPC member: 
-
+  - IEEE Military Communications Conference (IEEE MILCOM)
 
 <!-- 
   - ML area: ICML (2023, 2022, 2021, 2020); NeurIPS (2023, 2022, 2021, 2020); ICLR (2023, 2022, 2021)
@@ -27,7 +27,7 @@ nav: true
   - HCI area: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
 -->
 
-  - IEEE Military Communications Conference (IEEE MILCOM)
+  
 - Reviewer: 
   - IEEE Communications; IEEE Wireless Communications (WCM); IEEE Transactions on Wireless Communications (TWC); IEEE Internet of Things Journal (IoT-J); IEEE Transactions on Vehicular  Technology (TVT); IEEE Transactions on Industrial Informatics (TII); IEEE Journal on Selected Areas in Communications (J-SAC); IEEE Transactions on Signal Processing (TSP); IEEE     Transactions on Communications (TCoM); IEEE Wireless Communications Letters (WCL); IEEE Transactions on Mobile Computing (TMC); IEEE International Conference on Computer          Communications (INFOCOM); IEEE Global Communications Conference (Globecom); IEEE Military Communications Conference (MILCOM); International Conference on Wireless Algorithms, Systems, and Applications (WASA);etc.
 - Membership: 
