@@ -8,12 +8,14 @@ nav: true
 #### Students at BJFU
 
 Current students:
+
 <!-- 
 - 2023.05 -- present, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carniege Mellon University.
 - 2023.03 -- present, Kaijie Zhu, Master @ Institute of Automation, CAS.
 -->
 
 Alumni:
+
 <!-- 
 - 2023.03 -- 2023.04, Lu Tan, Master @ Tsinghua University.
 - 2022.10 -- 2023.03, [Xixu Hu](https://xixuhu.github.io/), Ph.D @ City University of Hong Kong.
@@ -33,7 +35,9 @@ Alumni:
   - Publications during internship: CIKM'21.
 - 2019.10 -- 2020.01, Weixin Lu, Bachelor @ Peking University. Now: Master @ New York University.
 -->
+
 #### Collaborating students
+
 <!-- 
 - Ph.D students at ICT, CAS: Xin Qin, Wang Lu, Yuxin Zhang.
 - Master student at Tsinghua University: Lu Tan.
