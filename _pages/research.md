@@ -32,7 +32,7 @@ network, National Natural Science Foundation of China, Co-PI (3/10), 2019.01—2
 - Research and design of cooperative cognitive dynamic secure transmission system for intelligent 
 Internet of Things, Beijing Natural Science Foundation, Co-PI (3/10), 2020.01—2023.01
 - Research on obstacle detection algorithm and motor synchronization of elevating platform door 
-system, Natural Science Foundation of China Academy of Railway Sciences, Co-PI (1/4), 2019.08—2020.08
+system, Natural Science Foundation of China Academy of Railway Sciences, Co-PI (2/4), 2019.08—2020.08
 
 
 
