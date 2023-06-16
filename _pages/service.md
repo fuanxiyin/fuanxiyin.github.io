@@ -15,10 +15,11 @@ nav: true
   -  IEEE Communication Society Member
 
 #### Awards
-- Outstanding Academic Scholarship for Excellent Graduate Students. BJTU 2016-2022.
-- Scholarship of Traffic Control Technology. BJTU 2021.
-- Excellent Graduate Awards. BJTU 2019.
-- Scholarship of China Scholarship Council. Ministry of Education 2020-2022
+- Excellent Doctoral Dissertation Award. BJTU, 2023.
+- Outstanding Academic Scholarship for Excellent Graduate Students. BJTU, 2016-2022.
+- Scholarship of Traffic Control Technology. BJTU, 2021.
+- Excellent Graduate Awards. BJTU, 2019.
+- Scholarship of China Scholarship Council. Ministry of Education, 2020-2022
 - Excellent Master's Thesis Award. BJTU 2018
 
 
