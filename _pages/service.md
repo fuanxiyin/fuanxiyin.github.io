@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Service
+title: Service and Reward
 permalink: /service/
 nav: true
 ---
