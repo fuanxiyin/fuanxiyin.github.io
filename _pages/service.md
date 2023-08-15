@@ -13,6 +13,7 @@ nav: true
 - Membership: 
   -  IEEE Member 
   -  IEEE Communication Society Member
+  -  China Institute of Communications, CIC Member
 
 #### Awards
 - Excellent Doctoral Dissertation Award. BJTU, 2023.
