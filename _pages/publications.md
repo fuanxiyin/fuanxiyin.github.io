@@ -9,7 +9,7 @@ nav: true
 
 [[Google scholar](https://scholar.google.com/citations?user=842OjAQAAAAJ)] | [[DBLP](https://dblp.org/pid/87/3021-4.html)]
 #### Preprints
-- Xin Fan, Yue Wang, Yan Huo, Zhi Tian. CB-DSL: Communication-efficient and Byzantine-robust Distributed Swarm Learning on Non-i.i.d. Data[J]. arXiv preprint arXiv:2208.05578, 2022. Submitted to IEEE Transactions on Cognitive Communications and Networking, under R2.review.
+- Xin Fan, Yue Wang, Weishan Zhang, Yan Huo, Zhi Tian. GANFed: GAN-based Federated Learning with Non-IID Datasets. Submitted to ICC 2024.
 - Xin Fan, Yan Huo. An Overview of Low latency for Wireless Communications: An Evolutionary Perspective[J] arXiv preprint arXiv:2107.03484, 2021.
 - Yue Wang, Zhi Tian, Xin Fan, Yan Huo, Cameron Nowzari, Kai Zeng, Distributed Swarm Learning for Internet of Things at the Edge: Where Artificial Intelligence Meets Biological Intelligence[J], arXiv preprint arXiv:2210.16705, 2022, Submitted to IEEE Wireless Communications.
 
