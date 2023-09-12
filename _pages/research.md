@@ -25,6 +25,7 @@ nav: true
 
 
 #### Grants
+- Performance Analysis and Evaluation of Distributed Transmission and Computing Integration Technology for Edge Intelligence, Horizontal Collaboration, PI (1/4), 2023.08-2024.04
 - Research on joint secure transmission scheme in NOMA system, the Fundamental Research Funds 
 for the Central Universities, PI (1/4), 2019.04—2021.03
 - Research on multi-dimensional secure green communication system for next generation wireless 
