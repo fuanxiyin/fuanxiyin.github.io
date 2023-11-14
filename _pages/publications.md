@@ -9,9 +9,12 @@ nav: true
 
 [[Google scholar](https://scholar.google.com/citations?user=842OjAQAAAAJ)] | [[DBLP](https://dblp.org/pid/87/3021-4.html)]
 ###### Preprints
-- Xin Fan, Yue Wang, Weishan Zhang, Yan Huo, Zhi Tian. GANFed: GAN-based Federated Learning with Non-IID Datasets. Submitted to ICC 2024.
+- Xin Fan, Yue Wang, Weishan Zhang, Zhipeng Cai, Yingshu Li, and Zhi Tian. GANFed: GAN-based Federated Learning with Non-IID Datasets. Submitted to IEEE ICC 2024.
+- Xin Fan, Yue Wang, Zhipeng Cai, Yingshu Li, and Zhi Tian. Enhancing Reliability of Distributed Learning over Edge Networks. Submitted to IEEE ICC 2024.
 - Xin Fan, Yan Huo. An Overview of Low latency for Wireless Communications: An Evolutionary Perspective[J] arXiv preprint arXiv:2107.03484, 2021.
-- Yue Wang, Zhi Tian, Xin Fan, Yan Huo, Cameron Nowzari, Kai Zeng, Distributed Swarm Learning for Internet of Things at the Edge: Where Artificial Intelligence Meets Biological Intelligence[J], arXiv preprint arXiv:2210.16705, 2022, Submitted to IEEE Wireless Communications.
+- Yue Wang, Zhi Tian, Xin Fan, Yan Huo, Cameron Nowzari, Kai Zeng, Distributed Swarm Learning for Internet of Things at the Edge: Where Artificial Intelligence Meets Biological Intelligence[J], arXiv preprint arXiv:2210.16705, Submitted to IEEE Communications, under review.
+- Yu Yan, Tao Jing, Qinghe Gao, Yan Huo, Xin Fan, Yue Wang and Yawei Wang, "An Initial Phase-added and RIS-assisted Physical Layer Security Scheme Based on Deep Reinforcement Learning[J]", 2023, Submitted to IEEE Transactions on Vehicular Technology, under review.
+- Bing Yang, Yan Huo, Xin Fan, Yu Yan, Tao Jing. Effective Integrated Waveform Design for Integrated Sensing and Communication [J].  Submitted to IEEE Communications, under review.
 
 
 
