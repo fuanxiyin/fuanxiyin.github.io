@@ -37,7 +37,7 @@ Alumni:
 -->
 
 #### Collaborating students
-
+- Ph.D students at BJTU: Yu Yan, Bing Yang
 <!-- 
 - Ph.D students at ICT, CAS: Xin Qin, Wang Lu, Yuxin Zhang.
 - Master student at Tsinghua University: Lu Tan.
