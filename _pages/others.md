@@ -8,6 +8,7 @@ nav: true
 #### Students at BJFU
 
 Current students:
+- Undergraduate student at BJFU: Linfeng Wu, 2023.11 -- Present
 
 <!-- 
 - 2023.05 -- present, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carniege Mellon University.
@@ -37,7 +38,7 @@ Alumni:
 -->
 
 #### Collaborating students
-- Ph.D students at BJTU: Yu Yan, Bing Yang
+- Ph.D students at BJTU: Yu Yan, Bing Yang, 2022.09 -- Present
 
   
 <!-- 
