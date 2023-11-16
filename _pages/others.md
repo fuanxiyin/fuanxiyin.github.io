@@ -39,6 +39,7 @@ Alumni:
 
 #### Collaborating students
 - Ph.D students at BJTU: Yu Yan, Bing Yang, 2022.09 -- Present
+- Ph.D students at GMU: Weishan Zhang, 2022.04 -- Present
 
   
 <!-- 
