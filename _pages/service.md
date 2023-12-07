@@ -8,12 +8,13 @@ nav: true
 #### Academic service
 - Conference TPC member: 
   - IEEE Military Communications Conference (IEEE MILCOM)
-- Reviewer: 
+- Reviewer (selected): 
   - IEEE Communications; IEEE Wireless Communications (WCM); IEEE Transactions on Wireless Communications (TWC); IEEE Internet of Things Journal (IoT-J); IEEE Transactions on Vehicular  Technology (TVT); IEEE Transactions on Industrial Informatics (TII); IEEE Journal on Selected Areas in Communications (J-SAC); IEEE Transactions on Signal Processing (TSP); IEEE     Transactions on Communications (TCoM); IEEE Wireless Communications Letters (WCL); IEEE Transactions on Mobile Computing (TMC); IEEE International Conference on Computer          Communications (INFOCOM); IEEE Global Communications Conference (Globecom); IEEE Military Communications Conference (MILCOM); International Conference on Wireless Algorithms, Systems, and Applications (WASA);etc.
 - Membership: 
   -  IEEE Member 
   -  IEEE Communication Society Member
   -  China Institute of Communications, CIC Member
+  -  The Chinese Institute of Electronics, CIE Member
 
 #### Awards
 - Excellent Doctoral Dissertation Award. BJTU, 2023.
