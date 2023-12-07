@@ -9,6 +9,7 @@ nav: true
 
 Current students:
 - Undergraduate student at BJFU: Linfeng Wu, 2023.11 -- Present
+- Undergraduate student at BJFU: Bingxin Ou, 2023.11 -- Present
 
 <!-- 
 - 2023.05 -- present, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carniege Mellon University.
@@ -39,7 +40,9 @@ Alumni:
 
 #### Collaborating students
 - Ph.D students at BJTU: Yu Yan, Bing Yang, 2022.09 -- Present
-- Ph.D students at GMU: Weishan Zhang, 2022.04 -- Present
+- Ph.D student at GMU: Weishan Zhang, 2022.04 -- Present
+- Master student at BJFU: Wenlu Yu, 2023.12 -- Present
+- Master students at QFNU: Shujiao Wang, Shuna Jiang, 2023.12 -- Present
 
   
 <!-- 
