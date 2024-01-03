@@ -6,6 +6,8 @@ nav: true
 ---
 
 #### Selected Talk
+- Talks at BJFU:
+  - **My Scientific Research Path: From Wireless Communications to Artificial Intelligence**.Dec 27, 2023: [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/myresearchpath.pdf)
 - Talks at GMU: 
   - **Deep Leakage from Gradients**.Oct 2020. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/Deep%20Leakage%20from%20Gradients--Xin%20Fan%2020201007.pdf)
   - **Poisoning Attacks in Federated Learning**. Nov 2020. [Slides](https://github.com/fuanxiyin/fuanxiyin.github.io/blob/master/assets/files/Poisoning%20Attacks%20in%20Federated%20Learning--Xin%20Fan%2020201125.pdf)
