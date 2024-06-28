@@ -8,8 +8,8 @@ nav: true
 #### Students at BJFU
 
 Current students:
-- Undergraduate student at BJFU: Linfeng Wu, 2023.11 -- Present
-- Undergraduate student at BJFU: Bingxin Ou, 2023.11 -- Present
+- - Undergraduate student at BJFU: Bingxin Ou, 2023.11 -- Present
+- - Master student at BJFU: Wenlu Yu, 2023.12 -- Present
 
 <!-- 
 - 2023.05 -- present, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carniege Mellon University.
@@ -17,7 +17,7 @@ Current students:
 -->
 
 Alumni:
-
+Undergraduate student at BJFU: Linfeng Wu, 2023.11 -- 2024.06
 <!-- 
 - 2023.03 -- 2023.04, Lu Tan, Master @ Tsinghua University.
 - 2022.10 -- 2023.03, [Xixu Hu](https://xixuhu.github.io/), Ph.D @ City University of Hong Kong.
@@ -41,7 +41,7 @@ Alumni:
 #### Collaborating students
 - Ph.D students at BJTU: Yu Yan, Bing Yang, Xuehan Li, 2022.09 -- Present
 - Ph.D student at GMU: Weishan Zhang, 2022.04 -- Present
-- Master student at BJFU: Wenlu Yu, Bingbing Bao, 2023.12 -- Present
+- Master student at BJFU: Bingbing Bao, Yuhang Yang, 2023.12 -- Present
 - Master students at QFNU: Shujiao Wang, Shuna Jiang, Xiaoshan Cui, Qiqi Yu, Zhenyu Zhen, 2023.12 -- Present
 - Master student at UESTC: Yuchen Gao, 2024.04 -- Present
 
