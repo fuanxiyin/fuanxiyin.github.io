@@ -25,6 +25,8 @@ nav: true
 
 
 #### Grants
+- Research on Distributed Learning Method Based on the Fusion of Biological Intelligence and Artificial Intelligence in Edge IoT, China Postdoctoral Science Foundation, (Sole PI), 2025.01-2026.12.
+- Analysis of the security of Internet protocols of integrated terrestrial-satellite networks, Horizontal Collaboration, PI (1/3), 2024.04-2025.09
 - Intelligent Multi-dimensional Security Threat Detection and Prevention Technology, Horizontal Collaboration, Co-PI (2/2), 2023.11-2024.11
 - Performance Analysis and Evaluation of Distributed Transmission and Computing Integration Technology for Edge Intelligence, Horizontal Collaboration, PI (1/4), 2023.08-2024.04
 - Research on joint secure transmission scheme in NOMA system, the Fundamental Research Funds 
