@@ -19,6 +19,7 @@ nav: true
 - Xiangqing Su, Yan Huo, Xiaoxuan Wang, Tao jing, Xin Fan, Zhiwei Yang. Empowering Large Models: Active Federated Semi-Supervised Learning for Object Detection in the Internet of Vehicles[J], 2023, Submitted to IEEE Transactions on Vehicular Technology, under review.
 - Ting Chen, Shujiao Wang, Xin Fan*, Chuanwen Luo, Yi Hong, Xiujuan Zhang. Block secure transmission for unmanned aerial vehicle assisted blockchain communication systems[J]. Submitted to CMC-Computers, Materials & Continua, under review.
 - Ting Chen, Shuna Jiang, Xin Fan*, Chuanwen Luo, Yi Hong, Xiujuan Zhang. UAV-assisted Multi-objective Computation Offloading for Blockchain Empowered V2X[J]. Submitted to CMC-Computers, Materials & Continua, under review.
+- Yuhang Yang, Yi Hong, Chuanwen Luo, Deying Li, Xin Fan, Zhibo Chen. Joint Optimization of Data Collection for UAV-and-IRS Assisted IoT in Urban Scenarios. Submitted to IEEE Transactions on Communications, under review.
   
 
 
