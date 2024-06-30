@@ -25,7 +25,6 @@ nav: true
 
 
 
-
 ###### Papers
 
 <div class="publications">
