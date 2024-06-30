@@ -18,6 +18,7 @@ Current students:
 
 Alumni:
 - - Undergraduate student at BJFU: Linfeng Wu, 2023.11 -- 2024.06
+
 <!-- 
 - 2023.03 -- 2023.04, Lu Tan, Master @ Tsinghua University.
 - 2022.10 -- 2023.03, [Xixu Hu](https://xixuhu.github.io/), Ph.D @ City University of Hong Kong.
